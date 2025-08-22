@@ -16,8 +16,6 @@
 - Criação automática de contatos/atividades
 
 ### ✅ **Tecnologia de Ponta**
-- Laravel 11 + Vue.js 3
-- Arquitetura modular (20+ módulos)
 - API RESTful completa
 - Interface moderna e responsiva
 - Multi-idioma (8 idiomas)
@@ -193,4 +191,5 @@
 **🎉 TRANSFORME SUA EMPRESA HOJE MESMO! 🎉**
 
 *Sistema completo que revoluciona vendas e relacionamento com clientes.*
+
 

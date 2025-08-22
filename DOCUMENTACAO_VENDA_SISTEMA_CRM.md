@@ -1,8 +1,8 @@
-# 🚀 **SOMO CRM - SISTEMA COMPLETO DE GESTÃO EMPRESARIAL**
+# 🚀 **GROW CRM - SISTEMA COMPLETO DE GESTÃO EMPRESARIAL**
 
 ## 📋 **VISÃO GERAL DO SISTEMA**
 
-O **SOMO CRM** é uma solução completa e moderna de Customer Relationship Management (CRM) desenvolvida com tecnologia de ponta, oferecendo uma plataforma robusta para gestão de relacionamentos com clientes, vendas, marketing e atendimento ao cliente.
+O **GROW CRM** é uma solução completa e moderna de Customer Relationship Management (CRM) desenvolvida com tecnologia de ponta, oferecendo uma plataforma robusta para gestão de relacionamentos com clientes, vendas, marketing e atendimento ao cliente.
 
 ### 🎯 **DIFERENCIAL COMPETITIVO**
 - **Arquitetura Modular Avançada** - 20+ módulos especializados
@@ -327,10 +327,10 @@ O **SOMO CRM** é uma solução completa e moderna de Customer Relationship Mana
 - **Proposta Personalizada** - Solução sob medida
 
 ### 📧 **INFORMAÇÕES DE CONTATO**
-- **Email:** contato@somo.tec.br
+- **Email:** contato@GROW.tec.br
 - **WhatsApp:** +55 (11) 99999-9999
-- **Website:** https://somo.tec.br
-- **LinkedIn:** /company/somo-crm
+- **Website:** https://GROW.tec.br
+- **LinkedIn:** /company/GROW-crm
 
 ### 🌟 **GARANTIA E SATISFAÇÃO**
 - **Garantia de 30 dias** - Devolução total
@@ -364,7 +364,7 @@ O **SOMO CRM** é uma solução completa e moderna de Customer Relationship Mana
 
 ---
 
-## 🎯 **POR QUE ESCOLHER O SOMO CRM?**
+## 🎯 **POR QUE ESCOLHER O GROW CRM?**
 
 ✅ **Tecnologia de Ponta** - Laravel 11 + Vue.js 3  
 ✅ **WhatsApp Integrado** - Comunicação nativa  
@@ -377,6 +377,6 @@ O **SOMO CRM** é uma solução completa e moderna de Customer Relationship Mana
 
 ---
 
-**🎉 TRANSFORME SUA EMPRESA COM O PODER DO SOMO CRM! 🎉**
+**🎉 TRANSFORME SUA EMPRESA COM O PODER DO GROW CRM! 🎉**
 
 *Sistema completo, moderno e inteligente para impulsionar seus resultados de vendas e relacionamento com clientes.*

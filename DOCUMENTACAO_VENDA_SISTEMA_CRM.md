@@ -229,13 +229,6 @@ O **SOMO CRM** é uma solução completa e moderna de Customer Relationship Mana
 
 ## 🔧 **TECNOLOGIAS E INTEGRAÇÕES**
 
-### **Tecnologias Core**
-- **Laravel 11** - Framework PHP moderno
-- **Vue.js 3** - Framework JavaScript progressivo
-- **MySQL/PostgreSQL** - Banco de dados robusto
-- **Redis** - Cache e sessões
-- **NestJS** - API WhatsApp dedicada
-- **Venom Bot** - Biblioteca oficial WhatsApp
 
 ### **Integrações Disponíveis**
 - **WhatsApp Business API** - Comunicação oficial
@@ -344,22 +337,6 @@ O **SOMO CRM** é uma solução completa e moderna de Customer Relationship Mana
 - **Satisfação Garantida** - Ou seu dinheiro de volta
 - **Suporte Vitalício** - Para sempre
 - **Atualizações Gratuitas** - Sempre incluídas
-
----
-
-## 🏆 **DEPOIMENTOS DE CLIENTES**
-
-> *"O SOMO CRM revolucionou nossa forma de atender clientes. A integração com WhatsApp aumentou nossas vendas em 60% no primeiro mês!"*
-> 
-> **João Silva** - CEO, TechStart
-
-> *"Sistema completo e fácil de usar. Nossa equipe de vendas nunca foi tão produtiva. ROI impressionante!"*
-> 
-> **Maria Santos** - Diretora Comercial, Inovação Ltda
-
-> *"A automação inteligente nos economiza 20 horas por semana. Investimento que se paga no primeiro mês!"*
-> 
-> **Pedro Costa** - Gerente de Marketing, GrowthCorp
 
 ---
 

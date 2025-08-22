@@ -1,6 +1,6 @@
-# 🚀 **SOMO CRM - RESUMO EXECUTIVO**
+# 🚀 **GROW CRM - RESUMO EXECUTIVO**
 
-## 💡 **O QUE É O SOMO CRM?**
+## 💡 **O QUE É O GROW CRM?**
 
 **Sistema completo de CRM com WhatsApp integrado** que revoluciona a gestão de relacionamentos com clientes, vendas e atendimento ao cliente.
 
@@ -168,7 +168,7 @@
 
 ---
 
-## 🏆 **POR QUE ESCOLHER O SOMO CRM?**
+## 🏆 **POR QUE ESCOLHER O GROW CRM?**
 
 ✅ **WhatsApp Integrado** - Diferencial único no mercado  
 ✅ **Tecnologia Moderna** - Laravel 11 + Vue.js 3  
@@ -183,9 +183,9 @@
 
 ## 📧 **CONTATO**
 
-- **Email:** contato@somo.tec.br
+- **Email:** contato@GROW.tec.br
 - **WhatsApp:** +55 (11) 99999-9999
-- **Website:** https://somo.tec.br
+- **Website:** https://GROW.tec.br
 - **Demo:** Agende em 30 minutos
 
 ---
@@ -193,3 +193,4 @@
 **🎉 TRANSFORME SUA EMPRESA HOJE MESMO! 🎉**
 
 *Sistema completo que revoluciona vendas e relacionamento com clientes.*
+

@@ -7,38 +7,10 @@ O **SOMO CRM** é uma solução completa e moderna de Customer Relationship Mana
 ### 🎯 **DIFERENCIAL COMPETITIVO**
 - **Arquitetura Modular Avançada** - 20+ módulos especializados
 - **Integração WhatsApp Nativa** - Comunicação direta via Venom Bot
-- **Interface Moderna Vue.js** - Experiência de usuário excepcional
+- **Interface Moderna** - Experiência de usuário excepcional
 - **Automação Inteligente** - Workflows e triggers automatizados
 - **Multi-idioma** - Suporte completo para 8 idiomas
 - **Escalabilidade Total** - Preparado para crescimento empresarial
-
----
-
-## 🏗️ **ARQUITETURA TÉCNICA AVANÇADA**
-
-### **Backend Laravel 11**
-- **Framework Laravel 11** - Última versão estável
-- **PHP 8.2+** - Performance e segurança otimizadas
-- **Arquitetura Modular** - 20 módulos independentes
-- **API RESTful** - Integração completa com sistemas externos
-- **Autenticação Sanctum** - Segurança empresarial
-- **Cache Redis** - Performance ultra-rápida
-- **Queue System** - Processamento assíncrono
-
-### **Frontend Vue.js 3**
-- **Vue.js 3 Composition API** - Interface moderna e responsiva
-- **Tailwind CSS** - Design system consistente
-- **Componentes Reutilizáveis** - Desenvolvimento ágil
-- **PWA Ready** - Aplicação web progressiva
-- **Real-time Updates** - Atualizações em tempo real
-- **Mobile First** - Otimizado para dispositivos móveis
-
-### **Integração WhatsApp**
-- **API NestJS** - Servidor dedicado para WhatsApp
-- **Venom Bot v5.3.0** - Biblioteca oficial com 800+ métodos
-- **WebSocket Real-time** - Comunicação instantânea
-- **Multi-dispositivo** - Suporte a múltiplas sessões
-- **Webhook Seguro** - Processamento de eventos em tempo real
 
 ---
 

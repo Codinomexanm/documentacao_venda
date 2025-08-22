@@ -16,7 +16,7 @@ O **SOMO CRM** é uma solução completa e moderna de Customer Relationship Mana
 
 ## 📦 **MÓDULOS PRINCIPAIS**
 
-### 🎯 **1. CORE - NÚCLEO DO SISTEMA**
+### 🎯 **1. PRINCIPAL**
 **Funcionalidades:**
 - Gestão de usuários e permissões
 - Sistema de autenticação avançado
@@ -27,7 +27,7 @@ O **SOMO CRM** é uma solução completa e moderna de Customer Relationship Mana
 - Multi-idioma (8 idiomas suportados)
 - Sistema de notificações push
 
-### 👥 **2. CONTACTS - GESTÃO DE CONTATOS**
+### 👥 **2. GESTÃO DE CONTATOS**
 **Funcionalidades:**
 - Cadastro completo de contatos
 - Gestão de empresas e pessoas
@@ -38,7 +38,7 @@ O **SOMO CRM** é uma solução completa e moderna de Customer Relationship Mana
 - Sistema de tags inteligente
 - Geolocalização de contatos
 
-### 💼 **3. DEALS - GESTÃO DE VENDAS**
+### 💼 **3. GESTÃO DE VENDAS**
 **Funcionalidades:**
 - Pipeline de vendas personalizável
 - Kanban board interativo
@@ -61,7 +61,7 @@ O **SOMO CRM** é uma solução completa e moderna de Customer Relationship Mana
 - **Webhook Seguro** - Processamento de eventos
 - **API Completa** - 47 endpoints para integração
 
-### 📅 **5. ACTIVITIES - GESTÃO DE ATIVIDADES**
+### 📅 **5. GESTÃO DE ATIVIDADES**
 **Funcionalidades:**
 - Agendamento de compromissos
 - Lembretes automáticos
@@ -83,7 +83,7 @@ O **SOMO CRM** é uma solução completa e moderna de Customer Relationship Mana
 - Relatórios de automação
 - A/B testing de workflows
 
-### 📧 **7. MAILCLIENT - GESTÃO DE EMAIL**
+### 📧 **7. GESTÃO DE EMAIL**
 **Funcionalidades:**
 - Múltiplas contas de email
 - Sincronização automática
@@ -94,7 +94,7 @@ O **SOMO CRM** é uma solução completa e moderna de Customer Relationship Mana
 - Filtros inteligentes
 - Backup automático
 
-### 📄 **8. DOCUMENTS - GESTÃO DOCUMENTAL**
+### 📄 **8. GESTÃO DOCUMENTAL**
 **Funcionalidades:**
 - Upload de documentos
 - Versionamento automático
@@ -105,7 +105,7 @@ O **SOMO CRM** é uma solução completa e moderna de Customer Relationship Mana
 - Compartilhamento seguro
 - Backup na nuvem
 
-### 💰 **9. BILLABLE - GESTÃO FINANCEIRA**
+### 💰 **9. GESTÃO FINANCEIRA**
 **Funcionalidades:**
 - Controle de produtos/serviços
 - Geração de orçamentos
@@ -116,7 +116,7 @@ O **SOMO CRM** é uma solução completa e moderna de Customer Relationship Mana
 - Multi-moeda
 - Impostos automáticos
 
-### 🌐 **10. WEBFORMS - FORMULÁRIOS WEB**
+### 🌐 **10. FORMULÁRIOS WEB**
 **Funcionalidades:**
 - Criador de formulários drag & drop
 - Validação avançada
